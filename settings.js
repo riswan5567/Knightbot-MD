@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'MALFO',
   author: 'Bot',
-  botName: "_MALFO_BOT_",
-  botOwner: 'Riswan', // Your name
+  botName: "DX MALFO BOT",
+  botOwner: '⚡ Riswan ⚡', // Your name
   ownerNumber: '919526862271', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
